@@ -1,0 +1,29 @@
+{"key":"version","value":"0.4.1-5","_id":"0fQRevrTnddbkyHT"}
+{"key":"tvdbLangs","value":[{"name":"Dansk","abbreviation":"da","id":"10"},{"name":"Suomeksi","abbreviation":"fi","id":"11"},{"name":"Nederlands","abbreviation":"nl","id":"13"},{"name":"Deutsch","abbreviation":"de","id":"14"},{"name":"Italiano","abbreviation":"it","id":"15"},{"name":"Español","abbreviation":"es","id":"16"},{"name":"Français","abbreviation":"fr","id":"17"},{"name":"Polski","abbreviation":"pl","id":"18"},{"name":"Magyar","abbreviation":"hu","id":"19"},{"name":"Ελληνικά","abbreviation":"el","id":"20"},{"name":"Türkçe","abbreviation":"tr","id":"21"},{"name":"русский язык","abbreviation":"ru","id":"22"},{"name":"עברית","abbreviation":"he","id":"24"},{"name":"日本語","abbreviation":"ja","id":"25"},{"name":"Português","abbreviation":"pt","id":"26"},{"name":"中文","abbreviation":"zh","id":"27"},{"name":"čeština","abbreviation":"cs","id":"28"},{"name":"Slovenski","abbreviation":"sl","id":"30"},{"name":"Hrvatski","abbreviation":"hr","id":"31"},{"name":"한국어","abbreviation":"ko","id":"32"},{"name":"English","abbreviation":"en","id":"7"},{"name":"Svenska","abbreviation":"sv","id":"8"},{"name":"Norsk","abbreviation":"no","id":"9"}],"_id":"8iAwzUudbPRStpYh"}
+{"key":"registerTorrents","value":true,"_id":"9GegSsLUjE0QDnTi"}
+{"key":"releaseName","value":"New Year's Eve in front of the door","_id":"Ocz1jHUzVPFhHvY4"}
+{"key":"ipAddress","value":"192.168.1.61","_id":"Zta7LTnboJQWsfeG"}
+{"key":"language","value":"en","_id":"otkkKEkSxvfDfvwg"}
+{"key":"showAdvancedSettings","value":true,"_id":"rZd6OZ6rGE8wOuxz"}
+{"key":"os","value":"linux","_id":"xjX4k5YEmLaYoIi3"}
+{"key":"arch","value":"x64","_id":"zxuafheRVbC9g0zM"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"tvdbLangs","value":[{"name":"Dansk","abbreviation":"da","id":"10"},{"name":"Suomeksi","abbreviation":"fi","id":"11"},{"name":"Nederlands","abbreviation":"nl","id":"13"},{"name":"Deutsch","abbreviation":"de","id":"14"},{"name":"Italiano","abbreviation":"it","id":"15"},{"name":"Español","abbreviation":"es","id":"16"},{"name":"Français","abbreviation":"fr","id":"17"},{"name":"Polski","abbreviation":"pl","id":"18"},{"name":"Magyar","abbreviation":"hu","id":"19"},{"name":"Ελληνικά","abbreviation":"el","id":"20"},{"name":"Türkçe","abbreviation":"tr","id":"21"},{"name":"русский язык","abbreviation":"ru","id":"22"},{"name":"עברית","abbreviation":"he","id":"24"},{"name":"日本語","abbreviation":"ja","id":"25"},{"name":"Português","abbreviation":"pt","id":"26"},{"name":"中文","abbreviation":"zh","id":"27"},{"name":"čeština","abbreviation":"cs","id":"28"},{"name":"Slovenski","abbreviation":"sl","id":"30"},{"name":"Hrvatski","abbreviation":"hr","id":"31"},{"name":"한국어","abbreviation":"ko","id":"32"},{"name":"English","abbreviation":"en","id":"7"},{"name":"Svenska","abbreviation":"sv","id":"8"},{"name":"Norsk","abbreviation":"no","id":"9"}],"_id":"8iAwzUudbPRStpYh"}
+{"key":"version","value":"0.4.1-5","_id":"0fQRevrTnddbkyHT"}
+{"key":"releaseName","value":"New Year's Eve in front of the door","_id":"Ocz1jHUzVPFhHvY4"}
+{"key":"arch","value":"x64","_id":"zxuafheRVbC9g0zM"}
+{"key":"os","value":"linux","_id":"xjX4k5YEmLaYoIi3"}
+{"key":"registerTorrents","value":true,"_id":"9GegSsLUjE0QDnTi"}
+{"key":"LastSubtitle","value":"http://dl.opensubtitles.org/en/download/src-api/vrf-198e0c46/sid-rIM,Q68AoZpiYcMHllGZEcNC2gc/filead/1955124110.srt","_id":"5lvMzzVbRYrQp0Wf"}
+{"key":"playerVolume","value":"1.0","_id":"BgUMaZXoQ9H3Gi4p"}
+{"key":"lastWatchedTime","value":false,"_id":"JyyU1FAlC3bJBpDl"}
+{"key":"totalDownloaded","value":34258944,"_id":"UYOs84J43PtbWAZ4"}
+{"key":"totalUploaded","value":0,"_id":"n9PO7OfTrXAisHvE"}
+{"key":"chosenPlayer","value":"html5","_id":"Yp0g9lLbHZD4dBS7"}
+{"key":"LastSubtitle","value":"http://dl.opensubtitles.org/en/download/src-api/vrf-198e0c46/sid-FnPRDTvfboOnQFjEairQA,6TxL4/filead/1955124110.srt","_id":"5lvMzzVbRYrQp0Wf"}
+{"key":"totalDownloaded","value":42172416,"_id":"UYOs84J43PtbWAZ4"}
+{"key":"totalUploaded","value":0,"_id":"n9PO7OfTrXAisHvE"}
+{"key":"totalDownloaded","value":42172416,"_id":"UYOs84J43PtbWAZ4"}
+{"key":"totalUploaded","value":0,"_id":"n9PO7OfTrXAisHvE"}
+{"key":"chosenPlayer","value":"html5","_id":"Yp0g9lLbHZD4dBS7"}
+{"key":"LastSubtitle","value":"http://dl.opensubtitles.org/en/download/src-api/vrf-198e0c46/sid-nkcUkIQiRAhfIEmXPOMw7qIHXQc/filead/1955124110.srt","_id":"5lvMzzVbRYrQp0Wf"}

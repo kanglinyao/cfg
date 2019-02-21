@@ -1,0 +1,74 @@
+{
+  "prefs": {
+    "downloadPath": "/home/roy/Downloads",
+    "isFileHandler": true,
+    "openExternalPlayer": false,
+    "externalPlayerPath": null,
+    "startup": false,
+    "autoAddTorrents": false,
+    "torrentsFolderPath": "",
+    "highestPlaybackPriority": true
+  },
+  "torrents": [],
+  "torrentsToResume": [],
+  "version": "0.20.0",
+  "telemetry": {
+    "userID": "7af17025662f5b09336bee1b772151acbe4f073c959c07c71aca5e1439f07f05",
+    "uncaughtErrors": [],
+    "playAttempts": {
+      "minVersion": "0.20.0",
+      "total": 0,
+      "success": 0,
+      "error": 0,
+      "external": 0,
+      "abandoned": 0
+    },
+    "version": "0.20.0",
+    "timestamp": "2019-02-15T10:44:28.853Z",
+    "localTime": "23:44:28 GMT+1300 (NZDT)",
+    "screens": [
+      {
+        "width": 1280,
+        "height": 800,
+        "scaleFactor": 1
+      }
+    ],
+    "system": {
+      "osPlatform": "linux",
+      "osRelease": "Linux 4.20.7-arch1-1-ARCH",
+      "architecture": "x64",
+      "systemArchitecture": "x64",
+      "totalMemoryMB": 8192,
+      "numCores": 2
+    },
+    "torrentStats": {
+      "approxCount": 0,
+      "approxSizeMB": 0,
+      "byStatus": {
+        "new": {
+          "approxCount": 0,
+          "approxSizeMB": 0
+        },
+        "downloading": {
+          "approxCount": 0,
+          "approxSizeMB": 0
+        },
+        "seeding": {
+          "approxCount": 0,
+          "approxSizeMB": 0
+        },
+        "paused": {
+          "approxCount": 0,
+          "approxSizeMB": 0
+        }
+      }
+    },
+    "approxNumTorrents": 0
+  },
+  "bounds": {
+    "height": 773,
+    "width": 1280,
+    "x": 0,
+    "y": 27
+  }
+}

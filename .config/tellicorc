@@ -1,0 +1,22 @@
+[Edit Dialog Options]
+Height 800=351
+Width 1280=513
+
+[EditImage]
+editor=Image Viewer
+
+[Fetch Dialog Options]
+Search Key=1
+Search Source=Library of Congress (US)
+Splitter Sizes=188,68
+
+[HTML Settings]
+AutomaticDetectionLanguage=1
+
+[Main Window Options]
+Height 800=773
+Main Splitter Sizes=425,851
+Secondary Splitter Sizes=93,590
+State=AAAA/wAAAAD9AAAAAAAABQAAAAKvAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBjAG8AbABsAGUAYwB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAABfv////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+Width 1280=1280

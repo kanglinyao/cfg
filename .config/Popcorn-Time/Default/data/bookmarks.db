@@ -1,0 +1,4 @@
+{"imdb_id":"tt1002563","type":"movie","_id":"9p7knfPaCGjpUnhl"}
+{"imdb_id":"tt0045810","type":"movie","_id":"RnGuolj9l0Wc7WJs"}
+{"imdb_id":"tt0082398","type":"movie","_id":"iv3MocmChXtBUhlU"}
+{"$$indexCreated":{"fieldName":"imdb_id","unique":true,"sparse":false}}

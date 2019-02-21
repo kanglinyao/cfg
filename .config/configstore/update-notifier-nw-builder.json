@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1536925938521,
+	"update": {
+		"latest": "3.5.4",
+		"current": "3.5.1",
+		"type": "patch",
+		"name": "nw-builder"
+	}
+}

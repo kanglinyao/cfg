@@ -1,0 +1,12 @@
+{
+  "capture_background" : "true",
+  "generate_png" : "true",
+  "show_preview" : "true",
+  "show_list" : "true",
+  "pane_position" : "221",
+  "window_width" : "750",
+  "window_height" : "600",
+  "startup_delay" : "20",
+  "search-locations" : [
+  ]
+}

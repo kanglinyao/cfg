@@ -1,0 +1,35 @@
+{"key":"playerVolume","value":"1.0","_id":"42lUL2d5pOCNdlHx"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"64hv4GGOr0TMRlVV"}
+{"key":"filters","value":{"movies":{"sorter":"rating","genre":"All","order":-1},"shows":{"sorter":"trending","genre":"","order":-1},"Watchlist":{"order":-1}},"_id":"65TDHCv3PIJVf3Zr"}
+{"key":"disclaimerAccepted","value":1,"_id":"FA8Gax4AukJaTW15"}
+{"key":"lastWatchedTime","value":355.369225,"_id":"G7MsQT4vFo55ujfI"}
+{"key":"version","value":"0.3.10","_id":"IeTqcMcknZMfUYTl"}
+{"key":"os","value":"linux","_id":"TIG7nVGyRgaxpsbj"}
+{"key":"totalUploaded","value":1461344406,"_id":"Tz6u7HXvCkFTAXmJ"}
+{"key":"lastWatchedTitle","value":"CODumentary","_id":"WVMJxZSFq0UhGLdx"}
+{"key":"UpdateSeed","value":false,"_id":"mmHlmdZq97FO81y1"}
+{"key":"chosenPlayer","value":"local","_id":"p4WYN1HoYFRnPMJ1"}
+{"key":"ipAddress","value":"192.168.1.61","_id":"rEkORO2h2iQMnUf1"}
+{"key":"showAdvancedSettings","value":true,"_id":"tP6zhXCkhfXrMrbc"}
+{"key":"deleteTmpOnClose","value":false,"_id":"wAJJ7F1banvwiSQL"}
+{"key":"language","value":"en","_id":"xCoW4AXLb7HfVpPC"}
+{"key":"movies_default_quality","value":"720p","_id":"yxr5HSCNhhg7m4gu"}
+{"key":"totalDownloaded","value":21541785925,"_id":"zXXQzEGibFn6Dgzt"}
+{"key":"arch","value":"x64","_id":"zXnHd39K6ELFt2Gx"}
+{"$$indexCreated":{"fieldName":"key","unique":true,"sparse":false}}
+{"key":"version","value":"0.3.10","_id":"IeTqcMcknZMfUYTl"}
+{"key":"releaseName","value":"Popcorn is Love","_id":"64hv4GGOr0TMRlVV"}
+{"key":"arch","value":"x64","_id":"zXnHd39K6ELFt2Gx"}
+{"key":"os","value":"linux","_id":"TIG7nVGyRgaxpsbj"}
+{"key":"playerVolume","value":"1.0","_id":"42lUL2d5pOCNdlHx"}
+{"key":"playerVolume","value":"1.0","_id":"42lUL2d5pOCNdlHx"}
+{"key":"lastWatchedTitle","value":"X","_id":"WVMJxZSFq0UhGLdx"}
+{"key":"lastWatchedTime","value":47.08949990081787,"_id":"G7MsQT4vFo55ujfI"}
+{"key":"filters","value":{"movies":{"sorter":"rating","genre":"All","order":-1},"shows":{"sorter":"trending","genre":"","order":-1},"Watchlist":{"order":-1}},"_id":"65TDHCv3PIJVf3Zr"}
+{"key":"lastWatchedTitle","value":"X","_id":"WVMJxZSFq0UhGLdx"}
+{"key":"lastWatchedTime","value":47.9105,"_id":"G7MsQT4vFo55ujfI"}
+{"key":"playerVolume","value":"1.0","_id":"42lUL2d5pOCNdlHx"}
+{"key":"playerVolume","value":"1.0","_id":"42lUL2d5pOCNdlHx"}
+{"key":"lastWatchedTitle","value":"Pickup on South Street","_id":"WVMJxZSFq0UhGLdx"}
+{"key":"lastWatchedTime","value":49.398836885559085,"_id":"G7MsQT4vFo55ujfI"}
+{"key":"playerVolume","value":"1.0","_id":"42lUL2d5pOCNdlHx"}
