@@ -1,6 +1,13 @@
 ! ------------------------------------------------------------------------------
 ! ROFI Color theme
 ! ------------------------------------------------------------------------------
+
+# Dark theme.
+rofi.theme: ~/.cache/wal/colors-rofi-dark.rasi
+
+# Light theme.
+rofi.theme: ~/.cache/wal/colors-rofi-light.rasi
+
 rofi.color-enabled: true
 # Window Border Separator
 rofi.color-window: argb:B0435e75, argb:D0435e75, argb:D0435e75
